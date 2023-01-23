@@ -171,7 +171,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Phoshoko Thabang - [Github](https://github.com/PhoshokoTd)
 
-Sunday Jimoh - [Github](https://github.com/sunday4me) / [Twitter](https://twitter.com/sunnet4me)
+Ekundayo Chrispel - [Github](https://github.com/Chrispel5) / [Twitter](https://twitter.com/PelumiEkundayo)
 
 Second part of Airbnb: Joann Vuong
 ## License
